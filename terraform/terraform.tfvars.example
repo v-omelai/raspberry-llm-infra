@@ -1,0 +1,7 @@
+nodes = {
+  server = {
+    user = "SSH username for accessing the server node"
+    host = "Hostname or IP address of the server node"
+    key  = "Path to the private SSH key"
+  }
+}
