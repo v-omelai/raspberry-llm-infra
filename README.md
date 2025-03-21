@@ -2,6 +2,8 @@
 
 This project is designed to deploy and run **large language models (LLMs)** on a **Raspberry Pi**.
 
+![Overview](overview.png)
+
 ## Commands
 
 ### Choco
